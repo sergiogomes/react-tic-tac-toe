@@ -3,7 +3,7 @@ import { render } from "@testing-library/react";
 import Tile from "./Tile";
 
 test("renders learn react link", () => {
-  const prop = { id: 5 };
+  const prop = { id: 5, bgColor: "bg-dark", blocked: false };
   const handleEvent = () => {};
   const { getByText } = render(
     <Tile onHandleTileClick={handleEvent} tile={prop} />

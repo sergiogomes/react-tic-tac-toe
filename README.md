@@ -2,6 +2,8 @@
 
 A Tic Tac Toe Geting Started Project.
 
+[![time tracker](https://wakatime.com/badge/github/sergiogomes/react-tic-tac-toe.svg)](https://wakatime.com/badge/github/sergiogomes/react-tic-tac-toe)
+
 ## Commands
 
 ```sh

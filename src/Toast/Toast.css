@@ -1,0 +1,7 @@
+.toast {
+  border-radius: 0.5vh;
+  color: white;
+  margin: 1vh 0;
+  padding: 1vh;
+  width: 100%;
+}

@@ -1,0 +1,15 @@
+.rows {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.toast-rows {
+  display: block;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.wrapper {
+  padding: 10vh 8vh;
+}

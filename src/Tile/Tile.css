@@ -1,6 +1,5 @@
 .tile {
   align-items: center;
-  background-color: #282c34;
   border-radius: 1vh;
   color: white;
   cursor: pointer;
@@ -11,4 +10,8 @@
   justify-content: center;
   margin: 1vh;
   width: 10vh;
+}
+
+.tile:disabled {
+  cursor: not-allowed;
 }
