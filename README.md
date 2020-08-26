@@ -1,6 +1,6 @@
 # React Tic Tac Toe
 
-A Tic Tac Toe Geting Started Project.
+A Tic Tac Toe game getting started project built on React.
 
 [![time tracker](https://wakatime.com/badge/github/sergiogomes/react-tic-tac-toe.svg)](https://wakatime.com/badge/github/sergiogomes/react-tic-tac-toe)
 
