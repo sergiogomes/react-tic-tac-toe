@@ -4,6 +4,8 @@ A Tic Tac Toe game getting started project built on React.
 
 [![time tracker](https://wakatime.com/badge/github/sergiogomes/react-tic-tac-toe.svg)](https://wakatime.com/badge/github/sergiogomes/react-tic-tac-toe)
 
+![Tic Tac Toe](https://raw.githubusercontent.com/sergiogomes/react-tic-tac-toe/master/public/promo.png)
+
 ## Commands
 
 ```sh
